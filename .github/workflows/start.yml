@@ -4,7 +4,7 @@ name: Action
 on:
   workflow_dispatch:
   schedule:
-    - cron: 05 18 * * *
+    - cron: 05 17 * * *
 
 
 jobs:
